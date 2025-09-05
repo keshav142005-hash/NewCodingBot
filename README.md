@@ -1,4 +1,4 @@
 # NewCodingBot
 new repo
 <br>
-krishna 
+krishna (GIET College)
